@@ -1,7 +1,7 @@
 .intro{
     height: 450px;
     width: 100%;
-    background-image:url(../Zoomcarbynaman/images/pic1.jpg);
+    background-image:url('../images/pic1.jpg');
     background-size: cover;
     margin: 0%;
 }
@@ -101,7 +101,7 @@ margin-top: 20px;
 .supermiler{
     height: 350px;
     width: 100%;
-    background-image:url(../Zoomcarbynaman/images/pic2.jpg);
+    background-image:url('./images/pic2.jpg');
     background-size: cover;
     
 
@@ -114,7 +114,7 @@ margin-top: 20px;
 }
 
 .caring{
-    background-image:url(../Zoomcabynaman/images/pic4.jpg);
+    background-image:url('./images/pic4.jpg');
     background-size: cover;
 }
 
@@ -181,7 +181,7 @@ margin-top: 20px;
 .download1{
     height: 550px;
     width: 100%;
-    background-image:url(../Zoomcarbynaman/images/pic5.jpg);
+    background-image:url('./images/pic5.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -321,7 +321,7 @@ left: 10%;
     cursor: pointer;
 }
 .quotebg{
-    background-image:url(../Zoomcarbynaman/images/quote.jpg);
+    background-image:url('./images/quote.jpg');
 }
 .quotationh{
     height: 550px;
@@ -355,7 +355,7 @@ left: 10%;
 .super2{
     height: 350px;
     width: 100%;
-    background-image: url(../Zoomcarbynaman/images/pic2.jpg);
+    background-image: url('./images/pic2.jpg');
     background-size: cover;
 }
 
@@ -430,7 +430,7 @@ left: 10%;
 }
 
 .need1{
-    background-image:url(../Zoomcarbynaman/images/pic4.jpg) ;
+    background-image:url('./images/pic4.jpg') ;
     
 }
 .need2{
